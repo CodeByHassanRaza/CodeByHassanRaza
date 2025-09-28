@@ -30,9 +30,7 @@ I’m **Hassan Raza**, a passionate **Full Stack Developer & Project Manager** w
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<!-- Tech Arsenal (4-column grid) -->
+ <!-- Tech Arsenal (4-column grid) -->
 
 ## 🛠️ Tech Arsenal
 
@@ -49,7 +47,6 @@ I’m **Hassan Raza**, a passionate **Full Stack Developer & Project Manager** w
         <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
       </p>
     </td>
-
     <td valign="top" width="25%">
       <h4>Backend</h4>
       <p>
@@ -61,7 +58,6 @@ I’m **Hassan Raza**, a passionate **Full Stack Developer & Project Manager** w
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"/>
       </p>
     </td>
-
     <td valign="top" width="25%">
       <h4>Databases & Caching</h4>
       <p>
@@ -72,7 +68,6 @@ I’m **Hassan Raza**, a passionate **Full Stack Developer & Project Manager** w
         <img src="https://img.shields.io/badge/Redis-DD0031?style=flat&logo=redis&logoColor=white" alt="Redis"/>
       </p>
     </td>
-
     <td valign="top" width="25%">
       <h4>AI / DevOps / Tools</h4>
       <p>
@@ -84,11 +79,8 @@ I’m **Hassan Raza**, a passionate **Full Stack Developer & Project Manager** w
         <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white" alt="Stripe"/>
       </p>
     </td>
-
   </tr>
 </table>
-
----
 
 ## 📊 GitHub Stats
 

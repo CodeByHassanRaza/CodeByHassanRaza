@@ -17,6 +17,15 @@ I’m **Hassan Raza**, a passionate **Full Stack Developer & Project Manager** w
 ⚡ I also integrate **AI/ML models** (OpenAI, YOLO, Computer Vision) into real-world systems.  
 🌍 I’ve successfully delivered **40+ projects** globally, working with startups, enterprises, and agencies.
 
+💼 **Freelancing Experience**  
+Alongside my professional roles, I’ve been a **freelancer for 4+ years** on platforms like Fiverr, where I’ve:
+
+- Completed **100+ projects & assignments** for global clients
+- Solved countless bugs, optimized systems, and improved workflows
+- Delivered projects across diverse industries including **e-commerce, SaaS, automation, and AI solutions**
+
+👉 Check out my Fiverr profile: [Hassan on Fiverr](https://www.fiverr.com/h_hassan421?public_mode=true)
+
 ### Career Highlights
 
 - 💼 **Backend Developer @ Wosom (Remote)**
@@ -30,7 +39,7 @@ I’m **Hassan Raza**, a passionate **Full Stack Developer & Project Manager** w
 
 ---
 
- <!-- Tech Arsenal (4-column grid) -->
+<!-- Tech Arsenal (4-column grid) -->
 
 ## 🛠️ Tech Arsenal
 
@@ -119,6 +128,7 @@ I’m **Hassan Raza**, a passionate **Full Stack Developer & Project Manager** w
   <a href="mailto:hassantech002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/CodeByHassanRaza"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
   <a href="https://facebook.com/CodeByHassanRaza"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.fiverr.com/h_hassan421?public_mode=true"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white"/></a>
 </p>
 
 ---
